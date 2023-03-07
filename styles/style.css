@@ -1,6 +1,11 @@
 h1 { 
+<<<<<<< HEAD
     color: yellow;
     background-color: aqua;
+=======
+    color: red;
+    background-color: brown;
+>>>>>>> feature_1
 } 
 p { 
     color:blue;  
