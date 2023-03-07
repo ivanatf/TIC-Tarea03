@@ -1,6 +1,7 @@
 # TIC-Tarea03
 
 Esta práctica consistió en crear una página HTML muy básica con estilos y un archivo de JS para ejecutar algunas funciones.
+Se añadieron stashes y más conflictos
 
 ## Cómo ver la practica
 
