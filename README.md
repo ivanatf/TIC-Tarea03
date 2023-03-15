@@ -12,3 +12,4 @@ Para ver la práctica, sólo hay que descargar los archivos y ejecutar Live Serv
 console.log("Resta:", res);
 ```
 
+Tambien probamos acciones con merge, push force, etc...
